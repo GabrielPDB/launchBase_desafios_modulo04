@@ -1,0 +1,43 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1594737625785-a6cbdabd333c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60",
+      "name": "Fernando Brombatti",
+      "email": "fernando@brombatti",
+      "birth": 951004800000,
+      "schoolYear": "6EF",
+      "weeklyWorkload": "40"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60",
+      "name": "Gabriel Dal Bó",
+      "birth": -23890291200000,
+      "class_type": "presential",
+      "acting": "Nenhuma, todas, e outras",
+      "created_at": 1605440271078
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1580894732930-0babd100d356?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60",
+      "name": "Gabriel Bó",
+      "birth": -23890291200000,
+      "class_type": "remotely",
+      "acting": "Nenhuma, e outras",
+      "created_at": 1605440271078
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60",
+      "name": "Fernando Brombatti",
+      "birth": -23890291200000,
+      "class_type": "presential",
+      "acting": "Nenhuma, todas",
+      "created_at": 1605440271078,
+      "graduation": "doctorate"
+    }
+  ]
+}
